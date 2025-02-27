@@ -8,7 +8,7 @@ This repository contains a fine-tuning project for building a model that estimat
 ---
 ## 📂 Project Structure
 ```plaintext
-product-pricer/
+frezazadeh-GPT-Fine-Tuning/
 ├── data/
 │   ├── processed/            # Preprocessed datasets (train.pkl, test.pkl)
 ├── src/                      # Core source code
