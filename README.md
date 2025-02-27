@@ -10,11 +10,7 @@ This repository contains a fine-tuning project for building a model that estimat
 ```plaintext
 product-pricer/
 ├── data/
-│   ├── raw/                  # Original datasets (e.g., CSV, JSON files)
 │   ├── processed/            # Preprocessed datasets (train.pkl, test.pkl)
-│   └── README.md             # Notes on data sources
-├── notebooks/                # Jupyter notebooks for EDA and experiments
-│   ├── eda.ipynb             # Exploratory data analysis
 ├── src/                      # Core source code
 │   ├── __init__.py
 │   ├── config.py             # Environment variables and API configuration
@@ -22,13 +18,8 @@ product-pricer/
 │   ├── items.py              # Item class for processing product descriptions
 │   ├── testing.py            # Unit testing framework
 │   ├── utils.py              # Utility functions
-├── tests/                    # Unit tests
-│   ├── __init__.py
-│   ├── test_fine_tune.py
-│   └── test_items.py
 ├── .env                      # API keys and environment variables
 ├── requirements.txt          # Dependencies list
-├── setup.py                  # Installation script
 ├── README.md                 # Project documentation (this file)
 ├── main.py                   # Main entry point for execution
 └── items.py                  # Alias to fix unpickling issues
