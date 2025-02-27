@@ -52,4 +52,4 @@ python main.py
 
 ## 📚 Reference
 
-[edwarddonner]([https://ideami.com/](https://edwarddonner.com/))
+[edwarddonner][https://ideami.com/](https://edwarddonner.com/)
