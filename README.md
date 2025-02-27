@@ -19,7 +19,6 @@ frezazadeh-GPT-Fine-Tuning/
 │   ├── testing.py            # Unit testing framework
 │   ├── utils.py              # Utility functions
 ├── .env                      # API keys and environment variables
-├── requirements.txt          # Dependencies list
 ├── README.md                 # Project documentation (this file)
 ├── main.py                   # Main entry point for execution
 └── items.py                  # Alias to fix unpickling issues
