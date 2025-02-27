@@ -41,7 +41,6 @@ Create a `.env` file in the root directory:
 
 ```env
 OPENAI_API_KEY=your_openai_key
-ANTHROPIC_API_KEY=your_anthropic_key
 HF_TOKEN=your_huggingface_token
 ```
 
