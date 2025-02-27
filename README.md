@@ -4,7 +4,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow.svg)
 
 # 🧠 GPT-Fine-Tuning
-This repository contains a fine-tuning project for building a model that estimates product prices from product descriptions.
+This repository contains a fine-tuning project for building a model that estimates product prices from product descriptions. If you also need my train dataset, please contact me (farhad.rh@ieee.org)
 ---
 ## 📂 Project Structure
 ```plaintext
