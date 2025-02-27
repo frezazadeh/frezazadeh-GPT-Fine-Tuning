@@ -3,7 +3,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT4o-orange.svg)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow.svg)
 
-# GPT-Fine-Tuning
+# 🧠 GPT-Fine-Tuning
 This repository contains a fine-tuning project for building a model that estimates product prices from product descriptions.
 ---
 ## 📂 Project Structure
@@ -50,3 +50,6 @@ HF_TOKEN=your_huggingface_token
 python main.py
 ```
 
+## 📚 Reference
+
+[edwarddonner]([https://ideami.com/](https://edwarddonner.com/))
