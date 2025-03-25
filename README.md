@@ -1,8 +1,9 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT4o-orange.svg)
+![Claude](https://img.shields.io/badge/Claude-%203.5-green)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow.svg)
-![Claude](https://img.shields.io/badge/Claude-%203.5-yellow)
+
 
 
 # 🧠 GPT-Fine-Tuning
