@@ -2,6 +2,8 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT4o-orange.svg)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow.svg)
+![Claude](https://img.shields.io/badge/Claude-%203.5-yellow)
+
 
 # 🧠 GPT-Fine-Tuning
 This repository contains a fine-tuning project for building a model that estimates product prices from product descriptions. If you also need my train dataset, please contact me (farhad.rh@ieee.org)
